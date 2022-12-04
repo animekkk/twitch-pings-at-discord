@@ -1,0 +1,9 @@
+{
+	"words": ["username"],
+	"follows": {
+		"enabled": true,
+		"usernames": ["username"]
+	},
+	"webhook": "https://discord.com/api/webhooks/xxxxxxxxxxx/xxxxxxxxxxxxxxxx",
+	"channels": ["channel"]
+}
